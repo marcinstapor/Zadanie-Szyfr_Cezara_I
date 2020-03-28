@@ -7,8 +7,13 @@ Jedna linia tekstu złożona z wielkich i/lub małych liter alfabetu łacińskie
 
 ## Wyjście
 Zaszyfrowana linia tekstu podana na wejściu.
-Przykład
-Wejście:
+
+## Przykład
+### Wejście:
+```
 Informatyka w VI LO
-Wyjście:
+```
+### Wyjście:
+```
 Lqirupdwbnd z YL OR
+```
